@@ -1,5 +1,7 @@
 # Basic descriptive statistics and graphs for Freedom of Information
 # Briefing
+# Stats available here: https://www.gov.uk/government/collections/government-foi-statistics 
+# April to June 2021 file used
 
 library(tidyverse)
 
